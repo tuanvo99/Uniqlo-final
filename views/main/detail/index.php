@@ -87,7 +87,7 @@
                             <div class="col-md-6 text-end">
                                 <a 
                                     style="text-decoration: underline;">
-                                    <i class="bi bi-pen"></i> Hướng dẫn chọn size
+                                     Hướng dẫn chọn size
                                 </a>
                                 <!-- <p>data-bs-toggle="modal" data-bs-target="#exampleModal"</p> -->
                             </div>
