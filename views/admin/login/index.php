@@ -28,9 +28,6 @@
             <form action="index.php?page=admin&controller=login&action=check" method="POST">
                 <div class="register-box" id="regUser">
                     <div class="top-header">
-                        <!-- <img src="https://routine.vn/media/amasty/webp/logo/websites/1/logo-black-2x_png.webp" alt=""
-                            style="width: 200px; margin-bottom: 10px;
-            height: auto;"> -->
                     </div>
                     <?php
 			            if (isset($err)) {
