@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <section class="wrapper" style="background-image: url(https://images.squarespace-cdn.com/content/v1/5b8bf301e2ccd13e972a0ab4/1561963993812-3RUQ17BHGHS3EX467D21/thiet-ke-cua-hang-routine-ha-noi%2B%2802%29.jpg); background-size: cover;
+    <section class="wrapper" style="background-image: url('https://huytoanland.com.vn/wp-content/uploads/2022/11/Cua-hang-Uniqlo-viet-nam-Huytoanland-1024x614.webp'); background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;">
         <div class="box">

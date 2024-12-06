@@ -21,7 +21,7 @@ require_once('views/admin/content_layouts.php'); ?>
 		<div class="container-fluid">
 			<div class="float-end">
 				<ol class="breadcrumb float-sm-right">
-					<li class="breadcrumb-item"><a href="#">Home</a></li>
+					<li class="breadcrumb-item"><a href="index.php?page=admin&controller=layout&action=index">Home</a></li>
 					<li class="breadcrumb-item active">Trang chủ</li>
 				</ol>
 			</div>
@@ -67,30 +67,7 @@ require_once('views/admin/content_layouts.php'); ?>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-12 col-lg-6 col-xl-4">
-					<div class="card">
-						<!-- <img src="..." class="card-img-top" alt="..."> -->
-						<div class="card-body">
-							<a href="index.php?page=admin&controller=comments&action=index" class="btn btn-primary">Quản lý Bình luận</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-12 col-lg-6 col-xl-4">
-					<div class="card">
-						<!-- <img src="..." class="card-img-top" alt="..."> -->
-						<div class="card-body">
-							<a href="index.php?page=admin&controller=news&action=index" class="btn btn-primary">Quản lý Bài viết</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-12 col-lg-6 col-xl-4">
-					<div class="card">
-						<!-- <img src="..." class="card-img-top" alt="..."> -->
-						<div class="card-body">
-							<a href="index.php?page=admin&controller=company&action=index" class="btn btn-primary">Quản lý Chi nhánh</a>
-						</div>
-					</div>
-				</div>
+				
 				<div class="col-md-12 col-lg-6 col-xl-4">
 					<div class="card">
 						<!-- <img src="..." class="card-img-top" alt="..."> -->
